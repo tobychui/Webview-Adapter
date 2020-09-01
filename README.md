@@ -48,5 +48,9 @@ The following are key and examples for staring paramters
 ### Example Command
 Although I have no idea why you will need this configuration, it will show something like this if you are launching it with other exec process call
 ```
-WebviewAdapter.exe title="IMUS Webview Adapter" width=500 height=300 icon=icon.ico url=http://bing.com allow-max=false allow-min=false allow-resize=false start-location=0,0 opacity=0.4
+WebviewAdapter.exe title="IMUS Webview Adapter" width=500 height=300 icon=icon.ico url=http://bing.com allow-max=false allow-min=false allow-resize=false start-location=0,0 opacity=1
 ```
+
+Example Output
+
+![](image/demo.png)
