@@ -1,0 +1,12 @@
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\bin\Debug\WebviewAdapter.exe.config
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\bin\Debug\WebviewAdapter.exe
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\bin\Debug\WebviewAdapter.pdb
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\bin\Debug\WebviewAdapter.xml
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\obj\Debug\WebviewAdapter.vbprojAssemblyReference.cache
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\obj\Debug\WebviewAdapter.Form1.resources
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\obj\Debug\WebviewAdapter.Resources.resources
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\obj\Debug\WebviewAdapter.vbproj.GenerateResource.cache
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\obj\Debug\WebviewAdapter.vbproj.CoreCompileInputs.cache
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\obj\Debug\WebviewAdapter.exe
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\obj\Debug\WebviewAdapter.xml
+C:\Users\Toby\Desktop\Project\WebviewAdapter\WebviewAdapter\WebviewAdapter\obj\Debug\WebviewAdapter.pdb
